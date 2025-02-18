@@ -1,3 +1,4 @@
-# git-demo
+# git-demo <br>
 Practicing Git!
--git configuration <br>-git commands
+-git configuration <br>
+-git commands
